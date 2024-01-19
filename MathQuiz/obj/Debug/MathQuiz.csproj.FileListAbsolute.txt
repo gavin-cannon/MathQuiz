@@ -1,0 +1,11 @@
+C:\Users\canno\OneDrive\Desktop\School Stuff\Winter 2024\.NET Software Development\Week 02\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\canno\OneDrive\Desktop\School Stuff\Winter 2024\.NET Software Development\Week 02\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\canno\OneDrive\Desktop\School Stuff\Winter 2024\.NET Software Development\Week 02\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\canno\OneDrive\Desktop\School Stuff\Winter 2024\.NET Software Development\Week 02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\canno\OneDrive\Desktop\School Stuff\Winter 2024\.NET Software Development\Week 02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\canno\OneDrive\Desktop\School Stuff\Winter 2024\.NET Software Development\Week 02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\canno\OneDrive\Desktop\School Stuff\Winter 2024\.NET Software Development\Week 02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\canno\OneDrive\Desktop\School Stuff\Winter 2024\.NET Software Development\Week 02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\canno\OneDrive\Desktop\School Stuff\Winter 2024\.NET Software Development\Week 02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\canno\OneDrive\Desktop\School Stuff\Winter 2024\.NET Software Development\Week 02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\canno\OneDrive\Desktop\School Stuff\Winter 2024\.NET Software Development\Week 02\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
